@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "redis": "^0.12.1",
+    "redis-stream": "^0.1.0",
     "underscore": "^1.8.3"
   }
 }
