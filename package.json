@@ -1,0 +1,15 @@
+{
+  "name": "RedisTutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "strings.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "redis": "^0.12.1",
+    "underscore": "^1.8.3"
+  }
+}
